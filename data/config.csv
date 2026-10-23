@@ -1,0 +1,30 @@
+﻿clave,valor,descripcion
+whatsapp_hoteleria,595986354781,"WhatsApp de hotelería y contacto general (solo números, con código de país)"
+whatsapp_compras,595983796436,"WhatsApp de compras de ganado (solo números, con código de país)"
+telefono_hoteleria,+595 986 354 781,Cómo se muestra el teléfono de hotelería
+telefono_compras,+595 983 796 436,Cómo se muestra el teléfono de compras
+email,ypoti@ypoti.com,Correo de contacto; también recibe los CV
+direccion_oficina,"Av. Aviadores del Chaco 1410, Edificio The Top",Dirección de la oficina en Asunción
+direccion_estancia,"Arroyito, Núcleo 6, Concepción",Dirección de la estancia
+precio_ms_usd,0.29,Simulador: precio de referencia del kg de materia seca (USD)
+diaria_usd,0.40,Simulador: diaria operativa por cabeza por día (USD)
+rc_entrada,0.50,"Simulador: rendimiento de carcasa al ingreso (0,50 = 50 %)"
+rc_salida,0.563,"Simulador: rendimiento de carcasa a la salida (0,563 = 56,3 %)"
+otros_costos_usd,15,Simulador: otros costos por cabeza (USD)
+sim_cab,160,Simulador: valor inicial — cantidad de animales
+sim_peso,360,Simulador: valor inicial — peso de ingreso (kg)
+sim_dias,105,Simulador: valor inicial — días en Ypoti
+sim_gmd,1.45,Simulador: valor inicial — ganancia media diaria (kg/día)
+sim_ms,10.10,Simulador: valor inicial — consumo de materia seca (kg MS/cab/día)
+sim_precio,5.40,Simulador: valor inicial — precio de la carcasa (USD/kg)
+tour_url,https://ypoti.com/map,Link del tour virtual
+video_url,,"Link del video institucional (YouTube, etc.). Vacío = se oculta el link"
+testimonio_video_url,,Link del video de Benjamín Piveta. Vacío = la tarjeta no tiene link
+sostenibilidad_url,,"Link ""Ver sostenibilidad"". Vacío = se oculta"
+rokakuaa_url,,"Link ""Conocer Rokakua'a"" y del pie. Vacío = se oculta"
+instagram_url,,"Instagram. Vacío = se muestra solo el nombre, sin link"
+facebook_url,,Facebook. Vacío = sin link
+linkedin_url,,LinkedIn. Vacío = sin link
+youtube_url,,YouTube. Vacío = sin link
+tiktok_url,,TikTok. Vacío = sin link
+leads_email,,Solo con Apps Script: correo que recibe un aviso por cada formulario enviado. Vacío = sin aviso
